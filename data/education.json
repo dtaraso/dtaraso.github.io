@@ -1,0 +1,17 @@
+[
+    {
+        "school":"[Michigan State University](https://msu.edu)",
+        "degree":"Master of Science",
+        "major":"Computer Science",
+	"minor":"Chemistry",
+        "notes":"GPA: 3.3",
+        "range":"2018 - 2020"
+    },
+    {
+        "school":"[Michigan State University](https://msu.edu)",
+        "degree":"Bachelor of Science",
+        "major":"Computer Science",
+	"notes":"GPA: 3.3",
+        "range":"2013 - 2017"
+    }
+]

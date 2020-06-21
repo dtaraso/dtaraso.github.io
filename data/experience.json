@@ -1,0 +1,32 @@
+[
+    {
+        "role":"Graduate Teaching Assistant",
+        "company":"Michigan State University",
+        "summary":"Communicated fundamental programming concepts using Python to undergraduate students",
+        "range":"August 2018 - Present"
+    },
+    {
+        "role":"Finalist",
+        "company":"SANS Cyber FastTrack",
+        "summary":"Completed over 250 capture-the-flag challenges and 48 online modules to further cybersecurity knowledge",
+        "range":"April 2019 - September 2019"
+    },
+    {
+        "role":"Software Engineer Intern",
+        "company":"University of Chicago",
+        "summary":"Implemented 3+ wrapper scripts in Python and Bash replacing manual processes",
+        "range":"June 2019 - August 2019"
+    },
+    {
+        "role":"IT Development Intern",
+        "company":"Medical Advantage Group",
+        "summary":"Developed 2 new functionalities and pages in PHP to simplify user permission edits for practice consultants",
+	"range":"January 2017 - August 2018"
+    },
+    {
+        "role":"Software Development Intern",
+        "company":"OmiDx/ QuHAnT",
+        "summary":"Assisted in development of software startup by developing image analytics software using OpenCV to increase efficiency of workload for pathologists",
+        "range":"July 2015 - June 2017"
+    }
+]

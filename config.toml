@@ -1,0 +1,37 @@
+baseURL = "https://dtaraso.github.io"
+languageCode = "en-us"
+title = "Daria Tarasova"
+theme = "hugo-resume"
+
+[params]
+    firstName = "Daria"
+    lastName = "Tarasova"
+    address = "Associate Developer @ IBM"
+    phone = "1-517-944-5530"
+    profileImage = "img/profile.jpg"
+    email = "dtarasova1@gmail.com"
+    description = "Associate Developer at IBM interested in security and privacy with experience in software engineering and development"
+    favicon = "/favicon.ico"
+    # what sections
+    showSkills = true
+    showProjects = true
+    showOpenSource = false
+    showPublications = false 
+    showExperience = true
+    showEducation = true
+
+    showQr = true
+
+[[params.handles]]
+    name = "LinkedIn"
+    link = "https://www.linkedin.com/in/tarasovad/"
+
+
+[[params.handles]]
+    name = "GitHub"
+    link = "https://github.com/dtaraso/"
+
+[[params.handles]]
+    name = "Twitter"
+    link = "https://twitter.com/hexyrussian"
+

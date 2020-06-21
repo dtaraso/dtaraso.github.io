@@ -1,0 +1,10 @@
+[
+  {
+      "grouping":"Languages, Operating Systems & Tools",
+      "skills":[ "Python","C/C++","git","linux","bash","PHP","Node.js","OpenCV"]
+  },
+  {
+      "grouping":"Certifications",
+      "skills":[ "GIAC Security Essentials (GSEC)"]
+  }
+]
