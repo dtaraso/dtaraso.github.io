@@ -35,3 +35,5 @@ theme = "hugo-resume"
     name = "Twitter"
     link = "https://twitter.com/hexyrussian"
 
+[params.google.analytics]
+    trackerID = "UA-170888222-1"
